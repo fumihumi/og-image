@@ -14,9 +14,8 @@
         "noUnusedParameters": true,
         "removeComments": true,
         "preserveConstEnums": true,
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "skipLibCheck": true
     },
-    "include": [
-        "./"
-    ]
+    "include": [ "./" ],
 }
